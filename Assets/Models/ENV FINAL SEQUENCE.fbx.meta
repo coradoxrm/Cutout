@@ -1,0 +1,199 @@
+fileFormatVersion: 2
+guid: 5abda1efb78f1e945a2e6f9e55995485
+timeCreated: 1507516325
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: AngleBelt
+    100002: BOX_GROUP_MESSY4
+    100004: BOX_GROUP_MESSY5
+    100006: BOX_GROUP_MESSY6
+    100008: BOX_GROUP_MESSY7
+    100010: BOX_GROUP_ORG2
+    100012: BOX_GROUP_ORG3
+    100014: DOUGH_MACH4
+    100016: //RootNode
+    100018: Facotry_Back_Wall
+    100020: Factory_Garage
+    100022: Factory_Misc
+    100024: Factory_Module
+    100026: MergeBelt
+    100028: SILOS
+    100030: TB1
+    100032: TB2
+    100034: TR1
+    100036: TR2
+    100038: Treadmill_Blue5
+    100040: Treadmill_Merged
+    100042: Treadmill_Merged2
+    100044: Treadmill_Merged4
+    100046: Treadmill_Merged_Rubber
+    100048: Treadmill_Merged_Sides
+    100050: Treadmill_Red1
+    400000: AngleBelt
+    400002: BOX_GROUP_MESSY4
+    400004: BOX_GROUP_MESSY5
+    400006: BOX_GROUP_MESSY6
+    400008: BOX_GROUP_MESSY7
+    400010: BOX_GROUP_ORG2
+    400012: BOX_GROUP_ORG3
+    400014: DOUGH_MACH4
+    400016: //RootNode
+    400018: Facotry_Back_Wall
+    400020: Factory_Garage
+    400022: Factory_Misc
+    400024: Factory_Module
+    400026: MergeBelt
+    400028: SILOS
+    400030: TB1
+    400032: TB2
+    400034: TR1
+    400036: TR2
+    400038: Treadmill_Blue5
+    400040: Treadmill_Merged
+    400042: Treadmill_Merged2
+    400044: Treadmill_Merged4
+    400046: Treadmill_Merged_Rubber
+    400048: Treadmill_Merged_Sides
+    400050: Treadmill_Red1
+    2300000: AngleBelt
+    2300002: BOX_GROUP_MESSY4
+    2300004: BOX_GROUP_MESSY5
+    2300006: BOX_GROUP_MESSY6
+    2300008: BOX_GROUP_MESSY7
+    2300010: BOX_GROUP_ORG2
+    2300012: BOX_GROUP_ORG3
+    2300014: DOUGH_MACH4
+    2300016: Facotry_Back_Wall
+    2300018: Factory_Garage
+    2300020: Factory_Misc
+    2300022: Factory_Module
+    2300024: MergeBelt
+    2300026: SILOS
+    2300028: TB1
+    2300030: TB2
+    2300032: TR1
+    2300034: TR2
+    2300036: Treadmill_Merged2
+    2300038: Treadmill_Merged_Rubber
+    2300040: Treadmill_Merged_Sides
+    3300000: AngleBelt
+    3300002: BOX_GROUP_MESSY4
+    3300004: BOX_GROUP_MESSY5
+    3300006: BOX_GROUP_MESSY6
+    3300008: BOX_GROUP_MESSY7
+    3300010: BOX_GROUP_ORG2
+    3300012: BOX_GROUP_ORG3
+    3300014: DOUGH_MACH4
+    3300016: Facotry_Back_Wall
+    3300018: Factory_Garage
+    3300020: Factory_Misc
+    3300022: Factory_Module
+    3300024: MergeBelt
+    3300026: SILOS
+    3300028: TB1
+    3300030: TB2
+    3300032: TR1
+    3300034: TR2
+    3300036: Treadmill_Merged2
+    3300038: Treadmill_Merged_Rubber
+    3300040: Treadmill_Merged_Sides
+    4300000: DOUGH_MACH4
+    4300002: BOX_GROUP_ORG3
+    4300004: BOX_GROUP_ORG2
+    4300006: BOX_GROUP_MESSY7
+    4300008: BOX_GROUP_MESSY6
+    4300010: BOX_GROUP_MESSY5
+    4300012: BOX_GROUP_MESSY4
+    4300014: SILOS
+    4300016: MergeBelt
+    4300018: AngleBelt
+    4300020: Treadmill_Merged_Rubber
+    4300022: Treadmill_Merged_Sides
+    4300024: Treadmill_Merged2
+    4300026: TR1
+    4300028: TR2
+    4300030: TB1
+    4300032: TB2
+    4300034: Facotry_Back_Wall
+    4300036: Factory_Garage
+    4300038: Factory_Module
+    4300040: Factory_Misc
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

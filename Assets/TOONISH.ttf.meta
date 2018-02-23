@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 88817cd0a1c56b14094bc629bed58dbc
+timeCreated: 1507601956
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Toonish
+  fontNames:
+  - Toonish
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
